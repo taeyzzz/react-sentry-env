@@ -7,7 +7,7 @@ import * as serviceWorker from './serviceWorker';
 
 Sentry.init({
   dsn: "https://6defb5c19cbc4fbe80013fd960e983f1@sentry.io/1763246",
-  environment: 'development',
+  environment: process.env.NODE_ENV,
 });
 
 
