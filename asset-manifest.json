@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-sentry-env/static/css/main.0cb14e4e.chunk.css",
+    "main.js": "/react-sentry-env/static/js/main.f0e1061b.chunk.js",
+    "main.js.map": "/react-sentry-env/static/js/main.f0e1061b.chunk.js.map",
+    "runtime-main.js": "/react-sentry-env/static/js/runtime-main.65bdc389.js",
+    "runtime-main.js.map": "/react-sentry-env/static/js/runtime-main.65bdc389.js.map",
+    "static/js/2.b374e249.chunk.js": "/react-sentry-env/static/js/2.b374e249.chunk.js",
+    "static/js/2.b374e249.chunk.js.map": "/react-sentry-env/static/js/2.b374e249.chunk.js.map",
+    "index.html": "/react-sentry-env/index.html",
+    "precache-manifest.164a9044590d60f32ba4f67c06efdf01.js": "/react-sentry-env/precache-manifest.164a9044590d60f32ba4f67c06efdf01.js",
+    "service-worker.js": "/react-sentry-env/service-worker.js",
+    "static/css/main.0cb14e4e.chunk.css.map": "/react-sentry-env/static/css/main.0cb14e4e.chunk.css.map",
+    "static/media/logo.svg": "/react-sentry-env/static/media/logo.25bf045c.svg"
+  }
+}
