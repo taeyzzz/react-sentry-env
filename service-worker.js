@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-sentry-env/precache-manifest.2e1c306d7f750ff569cbe92a18dd43bb.js"
+  "/react-sentry-env/precache-manifest.d005f2b6aedaa6a63ad23a797b2afcbd.js"
 );
 
 self.addEventListener('message', (event) => {
