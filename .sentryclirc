@@ -1,0 +1,7 @@
+[defaults]
+url=https://sentry.io/
+org=taey
+project=taey-learn-sentry
+
+[auth]
+token=85f85767a1fb4a7dbaa52de74137478a3e16ee962b064f0a830b878a65ddee71
