@@ -92,6 +92,7 @@
     ]
   },
   "devDependencies": {
+    "@sentry/cli": "^1.47.2",
     "@sentry/webpack-plugin": "^1.8.1",
     "env-cmd": "^10.0.1",
     "node-sass": "^4.12.0",

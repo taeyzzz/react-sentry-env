@@ -16,6 +16,15 @@ Sentry.init({
 });
 
 ```
+# webpack plug in for production sourcemap
+```javascript
+  isEnvProduction && new SentryWebpackPlugin({
+    include: '.',
+    ignoreFile: '.sentrycliignore',
+    ignore: ['node_modules', 'webpack.config.js'],
+    configFile: 'sentry.properties',
+  }),
+```
 
 # How to set Environment variable for create react app
 - create .env file
